@@ -3,8 +3,6 @@
 *Kernel-Whitening: Overcome Dataset Bias with Isotropic Sentence Embedding*
 
 
-<img width="520" alt="image" src="https://github.com/SleepThroughDifficulties/KernelWhitening/blob/main/normalization.pdf">
-
 
 ### Notes
 
