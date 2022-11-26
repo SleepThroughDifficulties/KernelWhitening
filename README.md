@@ -14,7 +14,9 @@ The code implementation of this paper is mainly referenced in the following pape
 
 
 ```bash
-python main_sl.py
+python main_sl.py or
+
+sh mnli_run.sh
 ```
 
 ### Citation
